@@ -16,6 +16,12 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+  fill(255, 131, 198);
+  textSize(25);
+  text("Come to the operetta show in march", 80, 130);
+  fill(247, 5, 223)
+  textSize(15)
+  text("trust its going to be so cool",190, 200)
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
